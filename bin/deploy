@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp build/libs/*.jar build/tmp/
+java -jar build/tmp/*.jar
